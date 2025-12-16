@@ -2,7 +2,7 @@
 
 **Course Project**: CPSC 310 - Introduction to Software Engineering (UBC)  
 
-Demo: https://www.youtube.com/watch?v=AOQ3-LQsEME
+[![Demo Video](https://img.youtube.com/vi/GLBa6bYwOJw/maxresdefault.jpg)](https://www.youtube.com/watch?v=GLBa6bYwOJw)
 
 ## Overview
 
